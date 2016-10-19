@@ -22,5 +22,5 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. thumbnail:: images/flowers.jpg
+.. image:: images/flowers.jpg
    :width: 20%
